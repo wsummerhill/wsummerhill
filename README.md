@@ -5,5 +5,5 @@
 - [GitHub Pages Site](https://wsummerhill.github.io/)
 - [Twitter - @BSummzerz](https://twitter.com/BSummerz)
 
-👀 I’m interested in malware development, AV/EDR bypassses, and evastion techniques
+👀 I’m interested in C++/C# malware development, AV/EDR bypassses, and evastion tooling/techniques
 
