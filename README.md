@@ -14,4 +14,5 @@
 :teacher: I've worked as:
 - Security consultant (x3)
 - Vulnerability management security analyst
+- College instructor
 
