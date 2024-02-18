@@ -2,17 +2,15 @@
 <h3 align="left">Will Summerhill GitHub Profile</h3>
 
 :earth_americas: Where to find me:
-- [GitHub Blog](https://wsummerhill.github.io/)
-- [Twitter - @BSummzerz](https://twitter.com/BSummerz)
+- [Personal GitHub Site](https://wsummerhill.github.io/)
+- [Twitter - @BSummerz](https://twitter.com/BSummerz)
 
 👀 I’m interested in: 
 - C++/C# malware development
 - AV/EDR bypassses and evasion 
-- New tooling
 - Teaching
 
 :teacher: I've worked as:
-- Security consultant (x3)
+- Security consultant
 - Vulnerability management security analyst
 - College instructor
-
