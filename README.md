@@ -3,7 +3,7 @@
 
 :earth_americas: Where to find me:
 - [Personal GitHub Site](https://wsummerhill.github.io/)
-- [Twitter - @BSummerz](https://twitter.com/BSummerz)
+- [X/Twitter - @BSummerz](https://x.com/BSummerz)
 
 👀 I’m interested in: 
 - C++/C# malware development
